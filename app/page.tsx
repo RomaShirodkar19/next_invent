@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Manrope } from "next/font/google";
-// import { stackServerApp } from "@/stack/server";
 // import { redirect } from "next/navigation";
 
 const manrope = Manrope({ subsets: ["latin"], display: "swap" });
